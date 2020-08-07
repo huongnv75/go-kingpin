@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/alecthomas/units"
+	"github.com/huongnv75/go-units-time"
 )
 
 type Settings interface {

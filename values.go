@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/alecthomas/units"
+	"github.com/huongnv75/go-units-time"
 )
 
 // NOTE: Most of the base type values were lifted from:

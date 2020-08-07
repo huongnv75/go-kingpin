@@ -7,7 +7,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/alecthomas/template"
+	"github.com/huongnv75/go-template"
 )
 
 var (

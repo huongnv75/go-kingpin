@@ -6,7 +6,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/alecthomas/template"
+	"github.com/huongnv75/go-template"
 )
 
 const (
